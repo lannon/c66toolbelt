@@ -22,6 +22,6 @@ Gem::Specification.new do |spec|
   spec.add_dependency "rake", "~> 10.1.0"
   spec.add_dependency "thor", "~> 0.18.1"
   spec.add_dependency "oauth2", "~> 0.9.2"
-  spec.add_dependency "json", "~> 1.7.7"
+  spec.add_dependency "json", "~> 1.8.1"
   spec.add_dependency "httparty", "~> 0.11.0"
 end
